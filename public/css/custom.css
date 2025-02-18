@@ -1,0 +1,45 @@
+.nav-item .nav-link:hover, .nav-item .nav-link.active:hover {
+    background-color: #DD3A3B !important;
+    color: #fff !important;
+}
+
+.nav-item .nav-link.active {
+    /* border: 3px solid #DD2324 !important; */
+    background-color: #DD3A3B !important;
+    color: #FFF !important;
+}
+
+.btn.btn-primary {
+    background-color: #343a40 !important;
+    color: #fff !important;
+    border: none;
+}
+
+.btn.btn-primary:hover {
+    background-color: #DD3A3B !important;
+    color: #fff !important;
+    border: none;
+}
+
+td .btn.btn-sm.btn-primary {
+    background-color: #007bff !important;
+}
+
+td .btn.btn-sm.btn-primary:hover {
+    background-color: #007bff !important;
+}
+
+.paginate_button.page-item a{
+    border: 1px solid #DD2324 !important;
+    color: #DD2324!important;
+}
+
+.paginate_button.page-item.active .page-link{
+    background-color: #DD3A3B !important;
+    color: #fff !important;
+}
+
+.paginate_button.page-item .page-link:hover{
+    background-color: #DD3A3B !important;
+    color: #fff !important;
+}
